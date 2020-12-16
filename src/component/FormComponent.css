@@ -1,0 +1,9 @@
+.tabel{
+    border: 2px black solid;
+    width: 400px;
+    margin-left: 500px;
+}
+.formtabel{
+   margin-top: 10px;
+    margin-bottom: 10px;
+}
